@@ -3,3 +3,6 @@ def addition(a,b):
 
 def multiplication(a,b):
     return(a*b)
+
+def Divison(a,b):
+    return(a/b)
